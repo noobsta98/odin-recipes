@@ -1,0 +1,25 @@
+body{
+    background-color: #000000;
+    color: white;
+    font-family: "PT Sans", sans-serif;
+    font-size: 1.2rem;
+}
+
+a{
+    color: green;
+}
+
+a:hover{
+    color: white;
+}
+
+img{
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+.ribs,
+.soup,
+.sandwich{
+    text-align: center;
+}
